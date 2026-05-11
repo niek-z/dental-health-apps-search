@@ -1,2 +1,3 @@
 # dental-health-apps-search
-Repository for thesis "Quality of mobile applications for oral self-care in The Netherlands: A cross-sectional study"
+Repository for thesis "An assessment of mobile applications supporting oral health and self-care in the Netherlands: A cross-sectional study"
+May 2026
